@@ -1,0 +1,6 @@
+# this is all the unwanted files
+__pycache__
+/.idea
+/.vscode
+/Pipfile
+/Pipfile.lock

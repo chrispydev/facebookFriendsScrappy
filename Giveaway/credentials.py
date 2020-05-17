@@ -1,0 +1,2 @@
+LOGIN = 'yourfacebookemail'
+PASSWORD = 'yourpassword'

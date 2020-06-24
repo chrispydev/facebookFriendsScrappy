@@ -5,9 +5,9 @@
 > Then you need to install selenium using pip, pipenv or with conda
 
 ```python
-  pip install selenium *thats pip
-  pipenv install selenium *thats pipenv
-  conda install selenium *thats anaconda
+  pip install selenium *that's pip
+  pipenv install selenium *that's pipenv
+  conda install selenium *that's anaconda
 ```
 
 > Then input your info into the credential.py file and run the facebook.py script
